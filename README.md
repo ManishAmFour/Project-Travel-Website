@@ -74,8 +74,8 @@ At present, You can view Website in:
 
 - Download or clone the repository Website : 
 
-```
-https://github.com/manthanugemuge/Travel-India.git
+
+https://github.com/ManishAmFour/Project-Travel-Website.git```
 ```
 
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Travel-India/archive/refs/heads/main.zip) 
