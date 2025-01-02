@@ -1,6 +1,6 @@
 # Travel India 
-A Simple Tourism or Travel Booking website using Html, Css & Javascript. <br/>
-Hello there, I'm Manthan Ugemuge and I made this Travel/Tourism Booking website.
+Whether you're a solo traveler, a couple on a romantic getaway, or a family looking for an adventure.
+Our travel website ensures that you'll find everything you need to make your journey unforgettable.
 
 - 🌐 This Website is made with `Html`, `CSS` & `Javascript`. 
 - It contains a `Homepage` with travel destination all over India and much more.
@@ -74,8 +74,9 @@ At present, You can view Website in:
 
 - Download or clone the repository Website : 
 
+
 ```
-https://github.com/manthanugemuge/Travel-India.git
+https://github.com/ManishAmFour/Project-Travel-Website.git
 ```
 
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Travel-India/archive/refs/heads/main.zip) 
